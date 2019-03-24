@@ -1,5 +1,5 @@
-<?php
+<?php 
 echo "test";
 echo GET["test"];
-echo POST["test"]
-?>
+echo POST["test"];
+ ?>
